@@ -3,7 +3,7 @@
 ;Date: 05 Dec 2021
 ;Description: Demonstrates use of Recursive algorithms through a game of moving rings of varying size from a 
 ;			  starting rod to a target rod with some rod in between.
-;Issues: Intermittent issue where ring will refuse to move to the middle base. Cannot find the reason. On new game moves whole ring stack sometimes.
+;Issues: Intermittent issue where ring will refuse to move to the middle base. On new game, moves whole ring stack sometimes.
 .model small 
 .stack 100h	 
 .data 
